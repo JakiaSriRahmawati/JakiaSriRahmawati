@@ -1,7 +1,7 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.are.na%2Fblock%2F15641450&psig=AOvVaw001hls0R2gCTdZ1pMYc37X&ust=1731126346150000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDgz63yy4kDFQAAAAAdAAAAABAE)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721115005754-CRL27OWA47LU30WWERL1/16.gif)
 <h1 align="center">Hi 👋, I'm Jakia Sri Rahmawati</h1>
 <h3 align="center">I Learn Software Engineering.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=masthead%20animate%20coding%20cozy%20gif&imgurl=https%3A%2F%2F64.media.tumblr.com%2Fc41035ddb2eb612e53649324fdc1a75d%2F413a65c8cfce3d3f-b0%2Fs540x810%2Fe0335ae627eb1b9ebac0a2b913cf10e5649cf7af.gif&imgrefurl=https%3A%2F%2Fmienar.tumblr.com%2Fpost%2F645098686139056128%2Fof-glowing-lights-and-rainy-nights-instagram&docid=QHukyD20Yku6TM&tbnid=ZWcFCPMHNJOm-M&vet=12ahUKEwi5-ISk8suJAxXMzDgGHfEYJQ0QM3oECDwQAA..i&w=540&h=694&hcb=2&ved=2ahUKEwi5-ISk8suJAxXMzDgGHfEYJQ0QM3oECDwQAA">
+<img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakiasrirahmawati&label=Profile%20views&color=0e75b6&style=flat" alt="jakiasrirahmawati" /> </p>
